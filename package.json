@@ -1,0 +1,23 @@
+{
+  "name": "snscinfo-website",
+  "version": "1.0.0",
+  "description": "천안휴대폰성지 SNS텔레콤성정점 - Official Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snstelecom75502111-bot/SNSCINFO.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snstelecom75502111-bot/SNSCINFO.io/issues"
+  },
+  "homepage": "https://github.com/snstelecom75502111-bot/SNSCINFO.io#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
